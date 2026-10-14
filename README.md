@@ -83,7 +83,3 @@ docs/                   screenshot, raw bench output
 - Tiny model and an easy dataset; real non-IID gaps are usually larger.
 - Plain FedAvg only (no FedProx, SCAFFOLD, server momentum).
 - Three seeds — enough to see the effect, not for tight error bars.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
